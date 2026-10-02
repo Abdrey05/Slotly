@@ -1,0 +1,28 @@
+{
+  "name": "slotly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@elbrus/eslint-config": "^1.1.0",
+    "@elbrus/eslint-plugin": "^1.0.1",
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.1.0",
+    "cli": "^1.0.1",
+    "eslint": "^10.11.0",
+    "globals": "^17.13.0",
+    "sequelize": "^6.37.8"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "pg": "^8.23.1",
+    "pg-hstore": "^2.3.4"
+  }
+}
